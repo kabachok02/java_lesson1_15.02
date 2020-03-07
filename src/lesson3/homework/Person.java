@@ -23,6 +23,7 @@ public class Person {
 
     public static void main(String[] args) {
         Account account = new Account("12345678");
+        account.displayAccount();
 
 
     }
